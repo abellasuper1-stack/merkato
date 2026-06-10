@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-  <h1 className="bg-green-400"> this is going to GIThub </h1>    
+  <h1 className="bg-green-400 text-white"> this is going to GIThub </h1>    
     </>
   )
 }
