@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-  <h1 className="bg-green-400 text-white"> giithub </h1>    
+  <h1 className="bg-green-400"> giithub </h1>    
     </>
   )
 }
