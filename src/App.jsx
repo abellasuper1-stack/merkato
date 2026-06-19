@@ -5,6 +5,14 @@ import Shops from "./pages/Shops.jsx";
 import Trending from "./pages/Trending.jsx";
 import NewArrivals from "./pages/NewArrivals";
 import Discounts from "./pages/Discount.jsx";
+import { useState } from 'react'
+import reactLogo from './assets/react.svg'
+import viteLogo from './assets/vite.svg'
+import heroImg from './assets/hero.png'
+import './App.css'
+import Header from './components/header'
+import Footer from './components/Footer'
+import Home from './page/home'
 
 function App() {
   return (
@@ -21,6 +29,7 @@ function App() {
       </Routes>
     </div>
   );
+    
 }
 
 export default App;
